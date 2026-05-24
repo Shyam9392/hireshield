@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔐 HireShield
 
 **Pre-Employment Company OSINT & Fraud Detection Platform**
@@ -71,3 +72,6 @@ B.Tech IT — KU College of Engineering & Technology, Warangal
 
 ## 📄 License
 MIT
+=======
+# hireshield
+>>>>>>> 0f1365cbb96a8870a44bf4cfe849d9de37c25e3e
